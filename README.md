@@ -97,21 +97,19 @@ This project reinforced several key C++ and software engineering concepts:
 - Add unit tests for command execution and plant behavior.
 - Introduce persistence using a database-backed storage system.
 
-## 6. How to Build & Run
+### How to Run
 
-### Prerequisites
-- C++ Compiler (C++17 standard)
-- CMake (optional)
+Download the latest release and open the executable:
 
-### Build
+**Windows:**  
+Double-click `GardenSimulator.exe` or run it in the terminal:
+
 ```bash
-mkdir build
-cd build
-cmake ..
-cmake --build .
+GardenSimulator.exe
 ```
 
-### Run
+**Linux:**
+
 ```bash
 ./GardenSimulator
 ```
