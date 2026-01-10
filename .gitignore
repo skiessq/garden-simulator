@@ -1,0 +1,64 @@
+# ===============================
+# Build directories
+# ===============================
+build/
+cmake-build-*/
+bin/
+out/
+
+# ===============================
+# CMake
+# ===============================
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# ===============================
+# Compiled files
+# ===============================
+*.o
+*.obj
+*.lo
+*.slo
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+*.app
+
+# ===============================
+# Debug / intermediate files
+# ===============================
+*.pdb
+*.ilk
+*.dwo
+*.gch
+*.pch
+
+# ===============================
+# CLion / JetBrains
+# ===============================
+.idea/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-relwithdebinfo/
+
+# ===============================
+# VS Code (safe to keep)
+# ===============================
+.vscode/
+
+# ===============================
+# OS files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Project specific
+# ===============================
+simulador_copia.txt
