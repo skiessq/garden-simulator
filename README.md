@@ -92,11 +92,6 @@ This project reinforced several key C++ and software engineering concepts:
 *   **Refactoring**: The importance of code readability. Performed a major refactoring phase to translating the codebase from Portuguese to English and standardizing naming conventions, which significantly improved code maintainability.
 *   **Input Validation**: robust parsing using `std::stringstream` to handle various user input edge cases.
 
-## 5. Possible Improvements
-- Replace raw pointers with smart pointers (`std::unique_ptr`) to further improve safety.
-- Add unit tests for command execution and plant behavior.
-- Introduce persistence using a database-backed storage system.
-
 ### How to Run
 
 Download the latest release and open the executable:
